@@ -48,11 +48,11 @@ export function AppSidebar() {
       <SidebarHeader>
         <div className="flex items-center gap-2 p-2 group-data-[collapsible=icon]:justify-center">
             <Image
-              src="https://ibb.co/0R20092S"//"https://i.ibb.co/NgLwbjD/logo.png"
+              src="/logo.png"
               alt="HomeMatch Hub Logo"
-              width={32}
-              height={32}
-              className="transition-all duration-300"
+              width={150}
+              height={150}
+              className="transition-all duration-300 w-full max-w-[180px] h-auto"
             />
         </div>
       </SidebarHeader>

@@ -10,6 +10,12 @@ import { PropertyCard } from '@/components/property-card';
 import { EventCard } from '@/components/event-card';
 import { Separator } from '@/components/ui/separator';
 
+export function generateStaticParams() {
+  return users.map((user) => ({
+    id: user.id,
+  }));
+}
+
 function UserRating({ rating, reviewCount }: { rating: number, reviewCount: number }) {
   return (
     <div className="flex items-center gap-2 text-muted-foreground">

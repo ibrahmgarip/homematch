@@ -32,6 +32,12 @@ import { ReviewCard } from '@/components/review-card';
 import { EventCard } from '@/components/event-card';
 import { events } from '@/lib/data';
 
+export function generateStaticParams() {
+  return properties.map((property) => ({
+    id: property.id,
+  }));
+}
+
 export default function PropertyDetailPage({ params }: { params: { id: string } }) {
   const property = properties.find((p) => p.id === params.id || p.id === params.id.replace('-clone', ''));
   const landlord = users.find((u) => u.id === property?.landlordId);

@@ -1,0 +1,160 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A bright, modern living room with plants and natural light, conveying a welcoming atmosphere.",
+      "imageUrl": "https://images.unsplash.com/photo-1567684014761-b65e2e59b2eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsaXZpbmclMjByb29tJTIwcGxhbnRzJTIwbGlnaHR8ZW58MHx8fHwxNzYzMDI4Mjg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "living room plants"
+    },
+    {
+      "id": "avatar1",
+      "description": "Avatar for a male student, smiling.",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWxlJTIwcG9ydHJhaXQlMjBzbWlsaW5nfGVufDB8fHx8MTc2MzA5MTI0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male portrait"
+    },
+    {
+      "id": "avatar2",
+      "description": "Avatar for a female student, smiling.",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBvcnRyYWl0JTIwc21pbGluZ3xlbnwwfHx8fDE3NjMwOTI0NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "avatar3",
+      "description": "Avatar for a friendly landlord.",
+      "imageUrl": "https://images.unsplash.com/photo-1557862921-37829c790f19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW58ZW58MHx8fHwxNzYzMDkyNDQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man smiling"
+    },
+    {
+      "id": "avatar4",
+      "description": "Another happy student avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3J0cmFpdHxlbnwwfHx8fDE3NjMwOTI0NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student happy"
+    },
+    {
+      "id": "avatar5",
+      "description": "Another happy student avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1529068755536-a5ade0dcb4e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYzMTMwNzI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "avatar6",
+      "description": "Another happy student avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1631128869897-68e78bf4fb7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdHVkZW50JTIwc21pbGluZ3xlbnwwfHx8fDE3NjMwOTUyNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student smiling"
+    },
+    {
+      "id": "property1-room",
+      "description": "Bright, modern bedroom with a double bed and a window.",
+      "imageUrl": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxicmlnaHQlMjBiZWRyb29tJTIwaW50ZXJpb3J8ZW58MHx8fHwxNzYzMDk4NzQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bright bedroom"
+    },
+    {
+      "id": "property1-living",
+      "description": "Living room of the apartment in Gracia.",
+      "imageUrl": "https://images.unsplash.com/photo-1615875605825-5eb9bb5c6946?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3p5JTIwbGl2aW5nJTIwcm9vbSUyMGludGVyaW9yfGVufDB8fHx8MTc2MzA5ODc0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cozy living"
+    },
+    {
+      "id": "property1-kitchen",
+      "description": "Kitchen of the apartment in Gracia.",
+      "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBraXRjaGVuJTIwaW50ZXJpb3J8ZW58MHx8fHwxNzYzMDk4NzQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern kitchen"
+    },
+    {
+      "id": "property2-room",
+      "description": "Cozy, well-lit room in Madrid.",
+      "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3p5JTIwYmVkcm9vbSUyMG5hdHVyYWwlMjBsaWdodHxlbnwwfHx8fDE3NjMwOTI4ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cozy bedroom"
+    },
+    {
+      "id": "property2-living",
+      "description": "Living room of the apartment in Malasaña.",
+      "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMGxpdmluZyUyMHJvb20lMjBpbnRlcmlvcnxlbnwwfHx8fDE3NjMwOTg3NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "small living"
+    },
+    {
+      "id": "property3-room",
+      "description": "Shared flat with lots of natural light in Valencia.",
+      "imageUrl": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZWRyb29tJTIwd2l0aCUyMGJhbGNvbnl8ZW58MHx8fHwxNzYzMDk4NzQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bedroom balcony"
+    },
+    {
+      "id": "property3-living",
+      "description": "Living room of the apartment in Russafa.",
+      "imageUrl": "https://images.unsplash.com/photo-1540518614846-7eded433c457?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwbGFudCUyMGxpdmluZyUyMHJvb20lMjBpbnRlcmlvcnxlbnwwfHx8fDE3NjMwOTg3NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "plant living"
+    },
+    {
+      "id": "property3-kitchen",
+      "description": "Kitchen of the apartment in Russafa.",
+      "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6164a83639?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxob21lJTIwa2l0Y2hlbiUyMGludGVyaW9yfGVufDB8fHx8MTc2MzA5ODc0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "home kitchen"
+    },
+    {
+      "id": "property4-room",
+      "description": "Luminous studio in Sevilla with a plant.",
+      "imageUrl": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkaW8lMjBhcGFydG1lbnQlMjBsaWdodHxlbnwwfHx8fDE3NjMwOTI4ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "studio apartment"
+    },
+    {
+      "id": "event1",
+      "description": "Happy friends having a tapas dinner.",
+      "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcmllbmRzJTIwZWF0aW5nJTIwdGFwYXN8ZW58MHx8fHwxNzYzMDkyODg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "friends eating"
+    },
+    {
+      "id": "event2",
+      "description": "Group of friends on a sunny city walking tour.",
+      "imageUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncm91cCUyMG9mJTIweW91bmclMjBwZW9wbGUlMjB3YWxraW5nJTIwY2l0eXxlbnwwfHx8fDE3NjMwOTM2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "people walking"
+    },
+    {
+      "id": "event3",
+      "description": "Students studying together in a bright cafe.",
+      "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkZW50cyUyMHN0dWR5aW5nJTIwY2FmZXxlbnwwfHx8fDE3NjMwOTM2MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students cafe"
+    },
+    {
+      "id": "benefit-student",
+      "description": "Happy students laughing and studying together.",
+      "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYXBweSUyMHN0dWRlbnRzJTIwbGF1Z2hpbmd8ZW58MHx8fHwxNzYzMDkzNjI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy students"
+    },
+    {
+      "id": "benefit-landlord",
+      "description": "A friendly landlord handing over keys with a smile.",
+      "imageUrl": "https://images.unsplash.com/photo-1576758798324-21330e703a5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYW5kbG9yZCUyMGtleXN8ZW58MHx8fHwxNzYzMDkzNjI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "landlord keys"
+    },
+    {
+      "id": "map-placeholder",
+      "description": "Stylized, clean map of a city.",
+      "imageUrl": "https://images.unsplash.com/photo-1581922819941-6ab31ab79afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2MjkyNjg0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    },
+    {
+      "id": "logo-uni1",
+      "description": "Placeholder for a university logo",
+      "imageUrl": "https://images.unsplash.com/photo-1646500422414-5a8ad56e71b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsb2dvJTIwY3Jlc3R8ZW58MHx8fHwxNzYzMDI4Mjg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo crest"
+    },
+    {
+      "id": "logo-uni2",
+      "description": "Placeholder for a university logo",
+      "imageUrl": "https://images.unsplash.com/photo-1747862712521-e5cc6e3ebd3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsb2dvJTIwbW9kZXJufGVufDB8fHx8MTc2Mjk0OTI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo modern"
+    },
+    {
+      "id": "logo-uni3",
+      "description": "Placeholder for a university logo",
+      "imageUrl": "https://images.unsplash.com/photo-1705997696447-acfa8f31da50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsb2dvJTIwbWluaW1hbHxlbnwwfHx8fDE3NjMwMzMxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo minimal"
+    },
+    {
+      "id": "logo-uni4",
+      "description": "Placeholder for a university logo",
+      "imageUrl": "https://images.unsplash.com/photo-1747862712521-e5cc6e3ebd3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsb2dvJTIwbW9kZXJufGVufDB8fHx8MTc2Mjk0OTI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo modern"
+    }
+  ]
+}
